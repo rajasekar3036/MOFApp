@@ -1,4 +1,4 @@
-var host = "http://localhost:2497/"; 
+var host = "http://adigielite.ddns.net:8260/";
 var baseUrl = host + "MobileOfferFinderService.asmx";
 
 var imageURL = "http://192.168.2.14:8250/images/brands/";
